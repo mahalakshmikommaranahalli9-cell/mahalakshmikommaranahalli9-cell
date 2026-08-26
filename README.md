@@ -47,7 +47,9 @@ A college management project with frontend and backend components.
 🌐 Connect With Me
 
 🔗 GitHub:[mahalakshmikommaranahalli9-cell](https://github.com/mahalakshmikommaranahalli9-cell)
+
 💼 LinkedIn:[Mahalakshmi Kommaranahalli](https://www.linkedin.com/in/mahalakshmi-kommaranahalli-06aba0341/)
+
 📸 Instagram:[@its_me_mahaaaa__](https://www.instagram.com/its_me_mahaaaa__/)
 
 💭 My Goal
