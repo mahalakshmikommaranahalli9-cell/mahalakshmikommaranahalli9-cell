@@ -44,13 +44,6 @@ A web-based hospital management/healthcare website developed using modern web te
 🎓 Campus hub and campus Volunteer Club
 A college management project with frontend and backend components.
 
-📊 GitHub Stats
-![Mahalakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahalakshmikommaranahalli9-cell&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmikommaranahalli9-cell&layout=compact&theme=tokyonight)
-
-🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=mahalakshmikommaranahalli9-cell&theme=tokyonight)
-
 🌐 Connect With Me
 🔗 GitHub:[mahalakshmikommaranahalli9-cell](https://github.com/mahalakshmikommaranahalli9-cell)
 💼 LinkedIn:[Mahalakshmi Kommaranahalli](https://www.linkedin.com/in/mahalakshmi-kommaranahalli-06aba0341/)
