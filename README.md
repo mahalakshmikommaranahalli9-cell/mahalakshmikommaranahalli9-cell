@@ -1,16 +1,60 @@
-## Hi there 👋
+👋 Hi, I'm Mahalakshmi Kommaranahalli
 
-<!--
-**mahalakshmikommaranahalli9-cell/mahalakshmikommaranahalli9-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+💻 Passionate about Software Development,AI/ML & IoT
+🚀 Building projects and learning new technologies every day
+👩‍💻 About Me:
+- 🎓 Computer Science Engineering Student
+- 💡 Interested in Artificial Intelligence, Machine Learning and IoT
+- 🌱 Currently improving my programming and development skills
+- 🔭 Working on real-world projects using ESP32, LoRa and web technologies
+- 🤝 Interested in collaborating on innovative projects
+- 📚 Always learning and exploring new technologies
 
-Here are some ideas to get you started:
+🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Programming
+'C' 'Python' 'Java' 'JavaScript'
+
+🌐 Web Development
+'HTML' 'CSS' 'JavaScript'
+
+🤖 AI / ML
+'Machine Learning' 'Naive Bayes' 'SVM' 'Python'
+
+🔌 IoT & Embedded
+'ESP32' 'LoRa' 'OLED' 'IoT'
+
+🗄️ Database
+'SQL' 'PostgreSQL' 'DBMS'
+
+🧰 Tools
+'Git' 'GitHub' 'VS Code' 'Arduino IDE' 'Anti gravity'
+
+🚀 Featured Projects
+🌱 LoRa-Based Smart Irrigation Control and Monitoring System Using ESP32 and SX1278
+An IoT project using ESP32, LoRa, OLED and soil sensing to monitor soil conditions and support smart irrigation.
+
+🏥 MJ Hospital Website
+A web-based hospital management/healthcare website developed using modern web technologies.
+
+🎓 Campus hub and campus Volunteer Club
+A college management project with frontend and backend components.
+
+📊 GitHub Stats
+![Mahalakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahalakshmikommaranahalli9-cell&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmikommaranahalli9-cell&layout=compact&theme=tokyonight)
+
+🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=mahalakshmikommaranahalli9-cell&theme=tokyonight)
+
+🌐 Connect With Me
+🔗 GitHub:[mahalakshmikommaranahalli9-cell](https://github.com/mahalakshmikommaranahalli9-cell)
+💼 LinkedIn:[Mahalakshmi Kommaranahalli](https://www.linkedin.com/in/mahalakshmi-kommaranahalli-06aba0341/)
+📸 Instagram:[@its_me_mahaaaa__](https://www.instagram.com/its_me_mahaaaa__/)
+
+💭 My Goal
+
+> Keep learning, keep building, and turn ideas into real-world solutions. 🚀
+
+**Thanks for visiting my profile!**
